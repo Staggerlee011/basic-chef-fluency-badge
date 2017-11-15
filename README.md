@@ -11,9 +11,8 @@ https://training.chef.io/basic-chef-fluency-badge
 - [Chef Docs](https://docs.chef.io/chef_overview.html)
 
 ## Subjects
-- [Chef Basic Terminology](01 Chef Basic Terminology/README.md)
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Chef Basic Terminology](Staggerlee011/basic-chef-fluency-badge/01 Chef Basic Terminology/README.md)
+- [Describing What Chef Is]()
+- [Design Philosophy]()
+- [Chef Workflow Basics]()
+- [Understanding BAsic Chef Code]()
