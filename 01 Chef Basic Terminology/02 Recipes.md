@@ -1,11 +1,11 @@
 # Recipes
 
-Candidates should understand: 
-- What a recipe is 
-- Importance of the resource order 
-- How to use 'include_recipe' 
-- What happens if a recipe is included multiple times in a run_list 
-- The 'notifies' and 'subscribes' directives 
+> Candidates should understand: 
+> - What a recipe is 
+> - Importance of the resource order 
+> - How to use 'include_recipe' 
+> - What happens if a recipe is included multiple times in a run_list 
+> - The 'notifies' and 'subscribes' directives 
 
 ## What a recipe is 
 A recipe is the most fundamental configuration element within the organization. A recipe:
