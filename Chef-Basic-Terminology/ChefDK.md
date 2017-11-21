@@ -25,5 +25,5 @@ TDD is the development process of creating tests before code. To fo
 ## Links
 [Chef Docs - Chef DK](https://docs.chef.io/about_chefdk.html)
 
-[Return to Chef Basic Terminology](README.md)
-[Return Home](../README.md)
+[Return to Chef Basic Terminology](README.md)</b>
+[Return to Home](../README.md)

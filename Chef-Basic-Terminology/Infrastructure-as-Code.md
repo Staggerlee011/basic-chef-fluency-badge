@@ -22,9 +22,9 @@ If you roll out new code and there is an issue, you create a fix and roll that o
 
 
 ## Links
-[Infrastructure As Code](https://en.wikipedia.org/wiki/Infrastructure_as_Code)
+[Infrastructure As Code](https://en.wikipedia.org/wiki/Infrastructure_as_Code)</b>
 [Idempotence](https://en.wikipedia.org/wiki/Idempotence)
 
 
-[Return to Chef Basic Terminology](README.md)
-[Return Home](../README.md)
+[Return to Chef Basic Terminology](README.md)</b>
+[Return to Home](../README.md)

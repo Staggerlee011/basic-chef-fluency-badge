@@ -34,12 +34,11 @@ If you remove a resource from a recipe after it has been run on a node. no chang
 
 
 ## Links
-[MS docs - DSC Overview](https://docs.microsoft.com/en-us/powershell/dsc/overview)
+[MS docs - DSC Overview](https://docs.microsoft.com/en-us/powershell/dsc/overview)</b>
 [LCM ApplyOnly Issue](https://github.com/chef/chef/issues/2470)
 
 
-[Return to Chef Basic Terminology](README.md)
-[Return home](../README.md)
-
+[Return to Chef Basic Terminology](README.md)</b>
+[Return to Home](../README.md)
 
 

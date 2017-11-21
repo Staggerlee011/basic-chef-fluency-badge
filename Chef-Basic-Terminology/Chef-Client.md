@@ -45,10 +45,9 @@ The Chef client is configured via the client.rb file.
 
 
 ## Links 
-[Chef Docs - Chef-Client](https://docs.chef.io/ctl_chef_client.html)
+[Chef Docs - Chef-Client](https://docs.chef.io/ctl_chef_client.html)</b>
 [Chef Client Overview](https://docs.chef.io/chef_client_overview.html)
 
-[Return to Chef Basic Terminology](README.md)
-
-[Return Home](../README.md)
+[Return to Chef Basic Terminology](README.md)</b>
+[Return to Home](../README.md)
 

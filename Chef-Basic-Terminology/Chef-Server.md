@@ -59,9 +59,9 @@ https://docs.chef.io/server_components.html
 
 
 ## Links 
-[An Overview of Chef](https://docs.chef.io/chef_overview.html)
+[An Overview of Chef](https://docs.chef.io/chef_overview.html)</b>
 [Chef Server Components](https://docs.chef.io/server_components.html)
 
 
-[Return to Chef Basic Terminology](README.md)
+[Return to Chef Basic Terminology](README.md)</b>
 [Return to Home](../README.md)

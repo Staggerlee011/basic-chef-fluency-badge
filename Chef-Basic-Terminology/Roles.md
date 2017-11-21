@@ -71,5 +71,5 @@ knife node run_list set <node> "role[myrole]"
 [Chef Docs - Role](https://docs.chef.io/roles.html)
 [My Gist on Knife commands for Roles](https://gist.github.com/Staggerlee011/5cd3a98d49149850cb052d89afffacd0)
 
-[Return to Chef basic terminiology](README.md)
-[Return Home](../README.md)
+[Return to Chef Basic Terminology](README.md)</b>
+[Return to Home](../README.md)

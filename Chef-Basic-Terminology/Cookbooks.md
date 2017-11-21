@@ -91,3 +91,11 @@ To add a recipe and link it to default you will need to create the recipe (chef 
 
 ## The default recipe
 Can either include a recipe or link to other recipes in the cookbook. BP is to create separate recipes (`chef generate recipe xxx`) for isolation.
+
+
+## Links
+[Chef Docs - Cookbooks](https://docs.chef.io/cookbooks.html)
+
+
+[Return to Chef Basic Terminology](README.md)</b>
+[Return to Home](../README.md)

@@ -51,6 +51,8 @@ From <https://github.com/chef/chef-web-docs/blob/master/chef_master/source/recip
 
 
 
+## Links
+[Chef Docs - Recipes](https://docs.chef.io/recipes.html)</b>
 
-
-
+[Return to Chef Basic Terminology](README.md)</b>
+[Return to Home](../README.md)

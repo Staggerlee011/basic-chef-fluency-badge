@@ -41,10 +41,10 @@ A node can be named anything that follows the expressions `/^[\-[:alnum:]_:.]+$/
 
 
 ## Nodes
-[Chef Docs - Manage nodes](https://docs.chef.io/server_manage_nodes.html)
-[Chef Docs - About nodes](https://docs.chef.io/nodes.html)
+[Chef Docs - Manage nodes](https://docs.chef.io/server_manage_nodes.html)</b>
+[Chef Docs - About nodes](https://docs.chef.io/nodes.html)</b>
 [Chef Docs - Knife node](https://docs.chef.io/knife_node.html)
 
-[Return to Chef Basic Terminology](README.md)
+[Return to Chef Basic Terminology](README.md)</b>
 [Return to Home](../README.md)
 

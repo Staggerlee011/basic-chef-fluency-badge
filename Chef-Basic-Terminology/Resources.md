@@ -67,5 +67,5 @@ only_if powershell_out("get-website | where-object { $_.name -eq  'My_Web_App' }
 []()
 []()
 
-[Return to Chef Basic Terminiology](README.md)
-[Return Home ](../README.md)
+[Return to Chef Basic Terminology](README.md)</b>
+[Return to Home](../README.md)

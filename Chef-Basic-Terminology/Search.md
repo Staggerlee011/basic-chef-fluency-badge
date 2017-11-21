@@ -82,5 +82,5 @@ knife search node 'name:prd*'
 ## Links
 [Chef Docs](https://docs.chef.io/chef_search.html)
 
-[Return to Chef Basic Terminology](README.md)
-[Return Home](../README.md)
+[Return to Chef Basic Terminology](README.md)</b>
+[Return to Home](../README.md)

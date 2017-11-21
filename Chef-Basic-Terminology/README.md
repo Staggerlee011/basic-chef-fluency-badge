@@ -12,7 +12,7 @@
 - [Environments](Environments.md)
 - [Infrastructure As Code](Infrastructure-as-Code.md)
 - [Desired State Configuration](Desired-State-Configuration.md)
-- [Supermarket](supermarket.md)
+- [Supermarket](Supermarket.md)
 - [Chef DK](ChefDK.md)
 - [Test Kitchen](Test-Kitchen.md)
 

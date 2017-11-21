@@ -33,13 +33,11 @@ You can do this manuall in CheF Manage going into the Nodes tab, Selecting the n
 Or you can do it via code:
 
 
-
-
 ## Links
-[Chef Docs - Environments](https://docs.chef.io/environments.html)
+[Chef Docs - Environments](https://docs.chef.io/environments.html)</b>
 [Chef docs - Manage Envrionments](https://docs.chef.io/server_manage_environments.html)
 
-[Back to Chef Basic Terminology](README.md)
-[Back to Home](../README.md)
+[Return to Chef Basic Terminology](README.md)</b>
+[Return to Home](../README.md)
 
 
